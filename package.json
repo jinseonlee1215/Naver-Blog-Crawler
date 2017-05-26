@@ -1,0 +1,12 @@
+{
+  "name": "naverblogcrawler",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "flowpipe": "^0.5.2",
+    "iconv": "^2.2.1",
+    "mysql": "^2.11.1",
+    "request": "^2.74.0"
+  }
+}
